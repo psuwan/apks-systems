@@ -2,10 +2,11 @@
 - Plugins
   - Select2
   - Summernote
-- framework
+- Framework
   - Bootstrap 4.6
-- themes
+- Themes
     - Creative-tim
         - now ui dashboard
         - paper dashboard
+        - paper kit
         - black dashboard

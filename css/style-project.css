@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Sarabun Light';
+    src: url('./webfont-sarabun/fonts/Sarabun-Light.eot');
+    src: url('./webfont-sarabun/fonts/Sarabun-Light.eot?#iefix') format('embedded-opentype'),
+    url('./webfont-sarabun/fonts/Sarabun-Light.woff2') format('woff2'),
+    url('./webfont-sarabun/fonts/Sarabun-Light.woff') format('woff'),
+    url('./webfont-sarabun/fonts/Sarabun-Light.ttf') format('truetype'),
+    url('./webfont-sarabun/fonts/Sarabun-Light.svg#Sarabun Light') format('svg');
+}
+
+body, select, input text {
+    font-family: 'Sarabun Light', sans-serif !important;
+}
+
+.font-size-16px {
+    font-size: 16px !important;
+}
+
+.font-size-18px {
+    font-size: 18px !important;
+}
+
+.font-size-20px {
+    font-size: 20px !important;
+}
+
+.font-size-24px {
+    font-size: 24px !important;
+}
